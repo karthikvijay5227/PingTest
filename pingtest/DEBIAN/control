@@ -1,0 +1,9 @@
+Package: pingtest
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: fping, bash
+Maintainer: Your Name karthikvofficial1801@gmail.com
+Description: Simple ping-based network scanner
+ A simple script to scan a local network and identify up and down hosts based on ping responses.
